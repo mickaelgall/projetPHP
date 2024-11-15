@@ -52,7 +52,7 @@ $couleur = "jaune";
     
         default:
     
-            echo "Autres choix!";
+            echo "Autres choix";
     
     }
 
@@ -70,7 +70,7 @@ for ($x = 0; $x <= 10; $x++) {
 
 echo "</table>";
 
-    
+
      
 
 ?>

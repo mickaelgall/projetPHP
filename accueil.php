@@ -45,6 +45,7 @@
   <!-- début haut droit-->
   <div class="col-sm-3">
     <img src="allemagne-en-secret-il-s-est-constitue-une-bibliotheque-de-70-000-livres-63e10eb90dd0d220567149.jpg" alt="bibliothèque " width="200" height="200">
+  
   </div>
   <!-- fin haut droit-->
 </div>  
@@ -61,21 +62,21 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="51NVomQxWSL._AC_UF1000,1000_QL80_.jpg" class="d-block w-100" alt="Marie Vareille">
+      <img src="51NVomQxWSL._AC_UF1000,1000_QL80_.jpg" class="d-block w-90" alt="Marie Vareille">
       <div class="carousel-caption d-none d-md-block">
         <h5>First slide label</h5>
         <p>Some representative placeholder content for the first slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="la-belle-famille-livre-laure-rivieres-flammarion-avis-roman.jpg" class="d-block w-100" alt="Laure de Rivières">
+      <img src="la-belle-famille-livre-laure-rivieres-flammarion-avis-roman.jpg" class="d-block w-90" alt="Laure de Rivières">
       <div class="carousel-caption d-none d-md-block">
         <h5>Second slide label</h5>
         <p>Some representative placeholder content for the second slide.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="9782253237648-001.jpg" class="d-block w-100" alt="Guillaume Musso">
+      <img src="9782253237648-001.jpg" class="d-block w-90" alt="Guillaume Musso">
       <div class="carousel-caption d-none d-md-block">
         <h5>Third slide label</h5>
         <p>Some representative placeholder content for the third slide.</p>

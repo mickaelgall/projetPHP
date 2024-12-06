@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-
-<html lang="fr">
-<head>
-  <title>Table de multiplication</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-  
-  <h2>Formulaire HTML</h2>
-
-  <form method="get" action="script.php">
+<form method="get" action="script.php">
   
       <fieldset>
   
@@ -39,6 +27,3 @@
             echo "vous avez décliné";
     }
     ?>
-
-</body>
-</html>

@@ -22,18 +22,11 @@
         <div class="collapse navbar-collapse" id="mynavbar">
           <ul class="navbar-nav me-auto">
             <li class="nav-item">
-              <a class="nav-link" href="javascript:void(0)">Link</a>
+              <a class="nav-link" href="javascript:void(0)">panier</a>
             </li>
-            <li class="nav-item">
-              <a class="nav-link" href="javascript:void(0)">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="javascript:void(0)">Link</a>
-            </li>
-          </ul>
           <form class="d-flex">
-            <input class="form-control me-2" type="text" placeholder="Search">
-            <button class="btn btn-primary" type="button">Search</button>
+            <input class="form-control me-2" type="text" placeholder="chercher un livre">
+            <button class="btn btn-primary" type="button">rechercher</button>
           </form>
         </div>
       </div>
